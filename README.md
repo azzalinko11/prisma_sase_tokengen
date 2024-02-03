@@ -2,4 +2,4 @@ This script will generate API toke for Prisma SASE, this credential does timeout
 
 ./Gettoken.py to run or Python3 Gettoken.py
 
-Update your credentials_file.py with your specific tenant details from StrataCliud Manager
+Update your credentials_file.py with your specific tenant details from StrataCloud Manager
