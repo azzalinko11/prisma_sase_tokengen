@@ -1,4 +1,4 @@
-#Aratcliffe @ PANW
+#azzalinko
 import requests
 import credentials_file
 
